@@ -1,7 +1,8 @@
-bin/**
-lib/**
+bin/
+lib/
 lib64
-share/**
-*.pyc
+lib64/
+share/
+*.py[cod]
 pyvenv.cfg
-**/__pycache__/**
+__pycache__/
